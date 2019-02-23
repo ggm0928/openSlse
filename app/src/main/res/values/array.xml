@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="capSources">
+        <item >default</item>
+        <item >mic</item>
+        <item >voice_uplink</item>
+        <item >voice_downlink</item>
+        <item >voice_call</item>
+        <item >camcorder</item>
+        <item >voice_recognition</item>
+        <item >voice_communication</item>
+    </string-array>
+
+    <string-array name="playSources">
+        <item >speaker</item>
+    </string-array>
+
+    <string-array name="sampleRates">
+        <item >16000</item>
+        <item >8000</item>
+    </string-array>
+    <string-array name="stressTestCounts">
+        <item >10000</item>
+        <item >5000</item>
+        <item >3000</item>
+        <item >1000</item>
+        <item >500</item>
+    </string-array>
+    <string-array name="chans">
+        <item >stereo</item>
+        <item >mono</item>
+    </string-array>
+    <string-array name="capStreamTypes">
+        <item >NONE</item>
+        <item >GENERIC</item>
+        <item >CAMCORDER</item>
+        <item >VOICE_RECOGNITION</item>
+        <item >VOICE_COMMUNICATION</item>
+    </string-array>
+    <string-array name="playStreamTypes">
+        <item >VOICE</item>
+        <item >SYSTEM</item>
+        <item >RING</item>
+        <item >MEDIA</item>
+        <item >ALARM</item>
+        <item >NOTIFICATION</item>
+    </string-array>
+</resources>

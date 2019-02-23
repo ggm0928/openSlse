@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OpenSlesDemo</string>
+    <string name="display">Display</string>
+    <string name="capSource">CapSource</string>
+    <string name="capSample">CapSample</string>
+    <string name="playSource">PlaySource</string>
+    <string name="playSample">PlaySample</string>
+    <string name="startPlay">StartPlay</string>
+    <string name="stopPlay">StopPlay</string>
+    <string name="startCap">StartCap</string>
+    <string name="stopCap">StopCap</string>
+    <string name="stressTest">StressTest</string>
+    <string name="useSco">UseSco</string>
+    <string name="unUseSco">unUseSco</string>
+    <string name="startLoop">StartLoop</string>
+    <string name="stopLoop">StopLoop</string>
+    <string name="chan">Chan</string>
+    <string name="capStreamType">CapStreamType</string>
+    <string name="playStreamType">PlayStreamType</string>
+    <string name="androidPlay">AndroidPlay</string>
+
+</resources>
